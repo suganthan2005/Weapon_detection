@@ -1,4 +1,4 @@
-# 🔫 Weapon Detection System Using YOLOv3
+# 🔫 Weapon Detection System Using YOLOv8
 
 This project uses **YOLOv3** and **OpenCV** to detect weapons (gun, knife, pistol, etc.) in real-time via webcam. When a weapon is detected, the frame is saved and an alert is triggered.
 
